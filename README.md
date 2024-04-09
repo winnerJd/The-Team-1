@@ -39,7 +39,9 @@ git clone https://github.com/kika1s1/The-Team.git
 
 4. Start collaborating! Create branches, make changes, and submit pull requests to contribute to the project's development.
 
-## Contributing
+## Contributing 
+Go to [Contributing](CONTRIBUTING.md) for more information.
+
 
 We value and encourage contributions from all team members. If you would like to contribute to The Team Project Collaboration, please follow these guidelines:
 
